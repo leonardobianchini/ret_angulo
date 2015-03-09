@@ -10,7 +10,7 @@ class Main{
 			System.out.println("Digite a altura do retangulo");
 			ret.altura = scan.nextInt();
 			ret.calc();
-			System.out.println("Novamente digite 1 \nSair digite 0");
+			System.out.println("Novamente digite 1\nSair digite 0");
 			n = scan.nextInt();
 		}
 	}
